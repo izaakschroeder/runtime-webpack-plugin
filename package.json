@@ -1,0 +1,11 @@
+{
+  "name": "runtime-webpack-plugin",
+  "version": "0.1.0",
+  "author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
+  "license": "CC0-1.0",
+  "repository": "izaakschroeder/runtime-webpack-plugin",
+  "main": "./index.js",
+  "peerDependencies": {
+    "webpack": ">=1.9"
+  }
+}
